@@ -7,4 +7,4 @@ Due to a web browser "war" back when JS was invented, The language was submitted
 And thus `ECMAScript` was born.  
 `ECMAScript` , also popularly known as `ES`, is a standard specification of JavaScript.  
 `ES6` or also known as `ECMAScript 2015` was the second major revision to JavaScript.  
-In this project, I explored the basics of `ES6` and some of the important features in the revision.  
+In this project, I explore the basics of `ES6` and some of the important features in the revision.  
